@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser1", "Klasser1\Klasser1.csproj", "{8182BA75-ECBA-4590-B078-8DA86B2C6C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser2", "Klasser2\Klasser2.csproj", "{71B14096-70DE-4C74-BCDD-17F5F4A72924}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Klasser3Static", "Klasser3Static\Klasser3Static.csproj", "{B5694E2F-48A5-4495-911D-9EE372C6FD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8182BA75-ECBA-4590-B078-8DA86B2C6C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8182BA75-ECBA-4590-B078-8DA86B2C6C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8182BA75-ECBA-4590-B078-8DA86B2C6C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8182BA75-ECBA-4590-B078-8DA86B2C6C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71B14096-70DE-4C74-BCDD-17F5F4A72924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71B14096-70DE-4C74-BCDD-17F5F4A72924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71B14096-70DE-4C74-BCDD-17F5F4A72924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71B14096-70DE-4C74-BCDD-17F5F4A72924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5694E2F-48A5-4495-911D-9EE372C6FD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5694E2F-48A5-4495-911D-9EE372C6FD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5694E2F-48A5-4495-911D-9EE372C6FD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5694E2F-48A5-4495-911D-9EE372C6FD22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0148E24C-1CCC-4F41-98CF-19243B168275}
+	EndGlobalSection
+EndGlobal
